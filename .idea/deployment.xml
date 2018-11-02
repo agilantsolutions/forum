@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Some Cool Server Name">
+    <serverData>
+      <paths name="Some Cool Server Name">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Wikitten" local="C:/wamp64/www/Wikitten" web="/Wikitten" />
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
